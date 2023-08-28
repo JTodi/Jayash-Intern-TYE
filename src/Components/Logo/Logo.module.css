@@ -1,0 +1,10 @@
+.logo_container{
+    position: fixed;
+    height: 10%;
+    width: 20%;
+    left: 5%;
+    top: 5%;
+    opacity: 100%;
+    background-image:url('../../assets/images/TYE-LOGO.png') ;
+    background-size: 100% 100%;
+}
